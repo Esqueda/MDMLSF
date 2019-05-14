@@ -3,7 +3,9 @@
 __What is your current occupation?__
 39 replies given
 *This question allowed for multiple responses
-horizontal bar
+![](./current-role.png)
+<hr>
+
 
 __Name of the company or university where you currently study/work?__
 39 replies given
@@ -12,7 +14,7 @@ __Name of the company or university where you currently study/work?__
 
 __You took the courses on:__
 39 replies given
-double pie chart
+![](./when.png)
 
 __Did you believe the courses were useful back then vs. your current opinion__
 38 replies given
