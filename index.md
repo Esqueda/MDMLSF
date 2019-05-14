@@ -5,34 +5,44 @@ __What is your current occupation?__
 *This question allowed for multiple responses
 ![](./current-role.png)
 <hr>
+<hr>
 
 
 __Name of the company or university where you currently study/work?__
 39 replies given
 ![](./Companies.png)
 <hr>
+<hr>
 
 __You took the courses on:__
 39 replies given
 ![](./when.png)
+<hr>
 <hr>
 
 __Did you believe the courses were useful back then vs. your current opinion__
 38 replies given
 ![](./belief.png)
 <hr>
+<hr>
 
 __Please indicate the job roles that are more similar to activities that you have carried out professionally in your short career__
 37 replies given
 *This question allowed for multiple responses
+<hr>
+<hr>
 
 __Please select all tools that you have used in those roles:__
 36 replies given
 *This question allowed for multiple responses
+<hr>
+<hr>
 
 __Please select all skills that you believe were developed or improved within the courses:__
 36 replies given
 *This question allowed for multiple responses
+<hr>
+<hr>
 
 __What did you like the most about the courses?__
 25 replies given
@@ -89,6 +99,7 @@ professor's availability and the explanations regarding how can Mechatronics be 
 <hr>
 "The part about planning a business, from the business model concept to the production and manufacturing plans, and the financial analysis."
 <hr>
+<hr>
 
 __Should the class go deeper into any subject? Or present something with less detail?__
 23 replies given
@@ -137,6 +148,9 @@ __Should the class go deeper into any subject? Or present something with less de
 "Maybe deepen in the financial analysis, to validate if our business idea is feasible or not."
 <hr>
 "Maybe in the marketing strategies as we know nothing and maybe take the modeling part away as you can use that time for more practical things."
+
+<hr>
+<hr>
 
 __Do you think there is any subject that could be added to the class?__
 21 replies given
