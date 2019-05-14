@@ -1,4 +1,4 @@
-# Feedback on the Mechatronic Design and Mechatronics Lab courses
+# Results from Surveys on Mechatronic Design and Mechatronics Lab courses
 
 __What is your current occupation?__
 39 replies given
