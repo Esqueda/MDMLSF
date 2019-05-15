@@ -82,8 +82,8 @@ __What did you like the most about the courses?__
 <br>
 "To get more detail into the planning and validation required for a project."
 <br>
-"The dynamics of the class, the challenge of presenting a project in english is something very important because everyday I have a <hr>
-meeting with people in the United States, which makes it a priority for me to speak a professional and technical English. The <hr>
+"The dynamics of the class, the challenge of presenting a project in english is something very important because everyday I have a
+meeting with people in the United States, which makes it a priority for me to speak a professional and technical English. The 
 professor's availability and the explanations regarding how can Mechatronics be applied in a real job."
 <br>
 "The course content."
