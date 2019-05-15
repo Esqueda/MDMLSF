@@ -38,14 +38,17 @@ __Please select all tools that you have used in those roles:__
 *This question allowed for multiple responses
 <br>
 Engineering & Design tools
-[](./engineeringdesigntools.png)
+<br>
+![](./engineeringdesigntools.png)
 <br>
 Manufacturing Toools
-[](./manufacturingtools.png)
+<br>
+![](./manufacturingtools.png)
 <br>
 Business Tools
 <br>
-[](./businesstools.png)
+![](./businesstools.png)
+<br>
 <hr>
 <hr>
 
