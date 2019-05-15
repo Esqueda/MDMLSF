@@ -29,18 +29,21 @@ __Did you believe the courses were useful back then vs. your current opinion__
 __Please indicate the job roles that are more similar to activities that you have carried out professionally in your short career__
 37 replies given
 *This question allowed for multiple responses
+![](./jobs.png)
 <hr>
 <hr>
 
 __Please select all tools that you have used in those roles:__
 36 replies given
 *This question allowed for multiple responses
+[](./tools.png)
 <hr>
 <hr>
 
 __Please select all skills that you believe were developed or improved within the courses:__
 36 replies given
 *This question allowed for multiple responses
+![](./skills.png)
 <hr>
 <hr>
 
