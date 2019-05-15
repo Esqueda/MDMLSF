@@ -36,7 +36,16 @@ __Please indicate the job roles that are more similar to activities that you hav
 __Please select all tools that you have used in those roles:__
 36 replies given
 *This question allowed for multiple responses
-[](./tools.png)
+<br>
+Engineering & Design tools
+[](./engineeringdesigntools.png)
+<br>
+Manufacturing Toools
+[](./manufacturingtools.png)
+<br>
+Business Tools
+<br>
+[](./businesstools.png)
 <hr>
 <hr>
 
